@@ -1,0 +1,22 @@
+# --- Data: TIDAK diupload (vote share dari sumber tertutup) ---
+data/
+*.xlsx
+*.xls
+*.csv
+*.dta
+*.rds
+
+# R session
+.Rhistory
+.RData
+.Rapp.history
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
+
+# tapi simpan struktur folder output
+!output/.gitkeep
